@@ -1,6 +1,8 @@
+import './globals.css'
+
 export const metadata = {
-  title: 'Dashboard',
-  description: 'Next.js Dashboard App',
+  title: 'ProjectHub - Project Management',
+  description: 'Modern Project Management Dashboard',
 }
 
 export default function RootLayout({ children }) {
